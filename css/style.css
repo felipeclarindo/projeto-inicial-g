@@ -13,3 +13,8 @@ nav a{
 .container {
     margin: 20px;
 }
+
+
+section #conteudo {
+    line-height: 1.5;
+}
