@@ -9,3 +9,7 @@ h1, h2 {
 nav a{
     font-weight: 800;
 }
+
+.container {
+    margin: 20px;
+}
