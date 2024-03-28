@@ -27,3 +27,8 @@ section #conteudo {
 p {
     color: green;
 }
+
+#contact form button {
+    background-color: blue;
+    color: white;
+}
