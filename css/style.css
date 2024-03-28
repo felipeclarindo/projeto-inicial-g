@@ -19,7 +19,11 @@ section #conteudo {
     line-height: 1.5;
 }
 
-form {
+#contact form {
     border: solid 1px gray;
     padding: 10px;
+}
+
+p {
+    color: green;
 }
